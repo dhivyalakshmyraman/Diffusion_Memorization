@@ -1,0 +1,10 @@
+why diffusion models do not memorize
+Why diffusion models generalize so well despite huge parameter counts
+2 training phases
+1st phase - high quality images emerge without memorization
+2nd phase - a much later phase where memorization would occur if training continued.
+Good generation window is long while the memorization threshold is far away. 
+This explains why diffusion models produce stable non memorized outputs and outperform many other genai alternatives
+
+to understand why diffusion models generalize instead of copying
+
